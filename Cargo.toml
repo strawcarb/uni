@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/tcp_server",
+    "crates/tcp_client",
+    "crates/htttp_server",
+    "crates/htttp_client", "crates/http",
+]
