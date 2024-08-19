@@ -7,10 +7,6 @@ name = "http"
 version = "0.1.0"
 
 [[package]]
-name = "htttp_client"
-version = "0.1.0"
-
-[[package]]
 name = "htttp_server"
 version = "0.1.0"
 dependencies = [

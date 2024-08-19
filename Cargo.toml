@@ -1,7 +1,8 @@
 [workspace]
+resolver = "2"
 members = [
     "crates/tcp_server",
     "crates/tcp_client",
     "crates/htttp_server",
-    "crates/htttp_client", "crates/http",
+    "crates/http",
 ]
